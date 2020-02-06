@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sc_request" label="NeedIt_R" max_length="40" name="x_58872_needit_needit_r" sizeclass="3" type="collection"/>
+</database>
